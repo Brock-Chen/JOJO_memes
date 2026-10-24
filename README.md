@@ -1,6 +1,6 @@
 # JOJO_memes
 **此庫只限於上傳JOJO_meme，請勿上傳其他不相關圖片。** <br>
-**圖片格式目前僅限於「.jpg」、「.jpeg」、「.png」。** <br><br>
+**圖片格式目前僅限於「.jpg」、「.jpeg」、「.png」、「.webp」。** <br><br>
 
 <h2># 🖼️ 梗圖投稿指南 (How to Contribute):
 <h3>1. 擁有一個Github帳號，若是沒有的話，就去辦一個。
